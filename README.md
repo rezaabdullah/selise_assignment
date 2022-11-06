@@ -1,5 +1,4 @@
-# selise_assignment
-Selise Data Scientist Assignment
+# Selise Data Scientist Assignment
 
 **Problem 1:** Let's say you are a Data Scientist working in a company that analyzes social media contents.Business team approached you and told you to build an Agent that will understand the context of a social media post that they will use to segment the content,find popularity,trends etc.
 
